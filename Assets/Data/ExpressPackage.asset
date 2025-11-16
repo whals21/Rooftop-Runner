@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 697ac72d5141f8a43939b75e76f1024e, type: 3}
+  m_Name: ExpressPackage
+  m_EditorClassIdentifier: 
+  packageName: "\uD2B9\uAE09 \uBC30\uC1A1"
+  scoreValue: 20
+  packageColor: {r: 1, g: 0.1158355, b: 0.015686274, a: 1}
+  weight: 1
+  visualPrefab: {fileID: 7660655249030202777, guid: a7abf74190422b9449c871eccc66b008, type: 3}
